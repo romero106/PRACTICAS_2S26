@@ -1,15 +1,15 @@
-# [Nombre del curso]
+# Prácticas Iniciales
 
 <div align="center">
 
 ### 🏫 Información del curso
 
-| Ítem            |                                  Detalle |
-| :-------------- | ---------------------------------------: |
-| **Período**     | [Vacaciones / Primer / Segundo] Semestre |
-| **Sección**     |                                      `A` |
-| **Catedrático** |                     [Nombre del docente] |
-| **Auxiliar**    |                    [Nombre del auxiliar] |
+| Ítem            |                   Detalle |
+| :-------------- | ------------------------: |
+| **Período**     |     Segundo Semestre 2026 |
+| **Sección**     |                      `F+` |
+| **Catedrático** | SERGIO LEONEL GOMEZ BRAVO |
+| **Auxiliar**    |              SIN AUXILIAR |
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## Acerca de este repositorio
 
-Este repositorio contiene actividades, prácticas y proyectos desarrollados durante el curso **[Nombre del Curso]**.
+Este repositorio contiene actividades, prácticas y proyectos desarrollados durante el curso **Prácticas Iniciales**.
 
 Su propósito es reunir y organizar de forma estructurada los trabajos realizados durante el semestre, permitiendo localizar fácilmente cada actividad, práctica o proyecto.
 
@@ -42,13 +42,13 @@ El repositorio está organizado en distintos directorios según el propósito de
 
 ```text
 /
-├── Practicas/
+├── Charla-1/
 │   └── ...
 │
-├── Proyectos/
+├── Charla-2/
 │   └── ...
 │
-├── Tareas/
+├── Charla-3/
 │   └── ...
 │
 └── README.md
@@ -62,9 +62,11 @@ Cada directorio contiene los archivos correspondientes a las actividades desarro
 
 Aquí se registran las principales actividades desarrolladas durante el curso, así como su estado de avance.
 
-|  No.  | Tipo                            | Actividad              | Estado |
-| :---: | :------------------------------ | :--------------------- | :----: |
-|  01   | [Tarea / Práctica / Proyecto] # | Título de la actividad |   ⏳   |
+|  No.  | Tipo      | Actividad                                 | Estado |
+| :---: | :-------- | :---------------------------------------- | :----: |
+|  01   | Charla #1 | De algoritmos a objetos                   |   ✅    |
+|  02   | Charla #2 | Más allá de clases y objetos              |   ⏳    |
+|  03   | Charla #3 | Introducción a la inteligencia artificial |   🚧    |
 
 ### Estados
 
