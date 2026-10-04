@@ -62,11 +62,11 @@ Cada directorio contiene los archivos correspondientes a las actividades desarro
 
 Aquí se registran las principales actividades desarrolladas durante el curso, así como su estado de avance.
 
-|  No.  | Tipo      | Actividad                                 | Estado |
-| :---: | :-------- | :---------------------------------------- | :----: |
-|  01   | Charla #1 | De algoritmos a objetos                   |   ✅    |
-|  02   | Charla #2 | Más allá de clases y objetos              |   ⏳    |
-|  03   | Charla #3 | Introducción a la inteligencia artificial |   🚧    |
+|  No.  | Tipo                   | Actividad                                 | Estado |
+| :---: | :--------------------- | :---------------------------------------- | :----: |
+|  01   | [Charla #1](./Charla1/) | De algoritmos a objetos                   |   ✅    |
+|  02   | [Charla #2](./Charla2/) | Más allá de clases y objetos              |   🚧    |
+|  03   | [Charla #3](./Charla3/) | Introducción a la inteligencia artificial |   ⏳    |
 
 ### Estados
 
